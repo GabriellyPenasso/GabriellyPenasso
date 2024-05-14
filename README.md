@@ -8,7 +8,7 @@
 <p>
   Olá 👋, Eu sou a Gabrielly Penasso! Uma estudante apaixonada por Segurança da informação.(I am Gabrielly Penasso! A passionate student of Information Security.)
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na UNIFIEO. (I am currently studying Systems Analysis and Development at UNIFIEO.) <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
