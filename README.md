@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na UNIFIEO. (I am currently studying Systems Analysis and Development at UNIFIEO.) 
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar na área de Segurança da Informação. (I'm looking for my first job opportunity. My dream is to work in the field of Information Security.)
+  - 🔭Estou procurando novas oportunidades profissionais.. Meu sonho é trabalhar na área de Segurança da Informação. ("I'm looking for new professional opportunities.". My dream is to work in the field of Information Security.)
 </p>
 
 <!-- Dropdown -->
